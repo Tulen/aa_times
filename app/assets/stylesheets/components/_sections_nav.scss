@@ -3,6 +3,8 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  padding-bottom: 10px;
+  border-bottom: 1px solid grey;
 }
 .section-links li {
   font-family: $sans-serif;
